@@ -6,7 +6,9 @@ Solar System Simulation Java Applet
 
 ### Prerequisites
 
-You will need maven. Download from [here](https://maven.apache.org/install.html) and follow the [installation guide](https://maven.apache.org/install.html) to install it on your system.
+Ensure you have the latest version of Java
+
+**Maven** - Download from [here](https://maven.apache.org/install.html) and follow the [installation guide](https://maven.apache.org/install.html) to install it on your system.
 Alternatively, if you use homebrew, simply install using the following command
 
 ```
@@ -32,7 +34,7 @@ java -jar SolarSystemSimulation-1.0.jar
 
 ## Author
 
-* **Karim El Khazaani** - *Initial work* - [crabdul](https://github.com/crabdul)
+* **Karim El Khazaani** - [crabdul](https://github.com/crabdul)
 
 ## License
 

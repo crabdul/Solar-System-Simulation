@@ -2,6 +2,8 @@
 
 Solar System Simulation Java Applet 
 
+![Image of app](app.png)
+
 ## Getting Started
 
 ### Prerequisites

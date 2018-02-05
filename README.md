@@ -20,6 +20,8 @@ brew install maven
 ### Installing
 
 ```
+git clone https://github.com/crabdul/Solar-System-Simulation.git
+cd Solar-System-Simulation
 mvn clean install 
 ```
 

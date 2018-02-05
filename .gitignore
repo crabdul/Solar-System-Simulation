@@ -1,2 +1,4 @@
 target/*
 Dockerfile
+.settings
+.DS_Store

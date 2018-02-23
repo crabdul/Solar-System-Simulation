@@ -8,10 +8,10 @@ Solar System Simulation Java Applet
 
 ### Prerequisites
 
-Ensure you have the latest version of Java
+Ensure you have [Java](https://java.com/en/download/) installed on your computer. 
 
 **Maven** - Download from [here](https://maven.apache.org/install.html) and follow the [installation guide](https://maven.apache.org/install.html) to install it on your system.
-Alternatively, if you use homebrew, simply install using the following command
+Alternatively, if you use [homebrew](https://brew.sh/), simply install using the following command
 
 ```
 brew install maven

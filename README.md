@@ -28,7 +28,7 @@ mvn clean install
 ### Running the Applet
 
 ```
-java -jar SolarSystemSimulation-1.0.jar
+java -jar target/SolarSystemSimulation-1.0.jar
 ```
 
 ## Built With
